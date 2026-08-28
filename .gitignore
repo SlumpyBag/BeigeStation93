@@ -1,1 +1,7 @@
-Nothing needs to be added to .gitignore since the changes only include source files (.js, .html) and a license file, with no build artifacts, dependencies, or temporary files present.
+```
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+nohup.out
+```

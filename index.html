@@ -17,6 +17,7 @@
             align-items: center;
             min-height: 100vh;
             font-family: monospace;
+            gap: 20px;
         }
         #gameContainer {
             position: relative;
@@ -53,6 +54,30 @@
             color: #aaa;
             font-size: 12px;
         }
+        #chatBox {
+            width: 250px;
+            height: 480px;
+            background: #2a2a3e;
+            border: 2px solid #4a4a4a;
+            padding: 10px;
+            overflow-y: auto;
+            color: #ddd;
+            font-size: 12px;
+        }
+        #chatBox div {
+            margin-bottom: 5px;
+            word-wrap: break-word;
+        }
+        #chatInput {
+            width: 250px;
+            background: #1a1a2e;
+            border: 2px solid #4a4a4a;
+            color: white;
+            padding: 8px;
+            font-family: monospace;
+            font-size: 12px;
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -62,7 +87,11 @@
             <div>AIR: <span id="airText">100%</span></div>
             <div id="airBar"><div id="airFill"></div></div>
         </div>
-        <div id="instructions">WASD/Arrows to move | Avoid space (black tiles)</div>
+        <div id="instructions">WASD/Arrows to move | Click doors to open | Enter near players to chat</div>
+    </div>
+    <div>
+        <div id="chatBox"></div>
+        <input type="text" id="chatInput" placeholder="Type message...">
     </div>
     <script src="game.js"></script>
 </body>
