@@ -1,0 +1,88 @@
+# Hyphen License 1.0 (HLv1.0)
+
+## Preamble
+
+The Hyphen License 1.0 is an open-source, viral license designed to ensure that software and its derivatives remain freely available while permitting commercial use. This license combines the collaborative spirit of open-source with the flexibility for commercial applications, while maintaining strong copyleft provisions.
+
+## Terms and Conditions
+
+### 1. Definitions
+
+- **"License"** refers to this Hyphen License 1.0.
+- **"Work"** means any copyrightable work licensed under this License.
+- **"Source Code"** means the preferred form of the Work for making modifications to it.
+- **"Object Code"** means any non-source form of a Work.
+- **"Derivative Work"** means any work based on or derived from the Work, including but not limited to modifications, translations, adaptations, or combinations with other works.
+- **"Distribute"** means to make copies of the Work or Derivative Works available to others, whether for free or for a fee.
+
+### 2. Grant of Rights
+
+Subject to the terms and conditions of this License, the copyright holder grants you:
+
+a) **Copyright License**: A worldwide, non-exclusive, royalty-free license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source Code or Object Code form.
+
+b) **Patent License**: A worldwide, non-exclusive, royalty-free patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work.
+
+c) **Commercial Use**: The right to use the Work for commercial purposes, including but not limited to selling products or services that incorporate the Work.
+
+### 3. Viral Copyleft Condition
+
+This is the core condition of the Hyphen License 1.0:
+
+a) **Fork Requirement**: Any work that is forked from a repository or codebase licensed under HLv1.0 must also be licensed entirely under HLv1.0.
+
+b) **Derivative Works**: Any Derivative Work must be licensed as a whole at no charge to all third parties under the terms of this License. No additional restrictions may be imposed on recipients' exercise of the rights granted herein.
+
+c) **Distribution Requirement**: When you Distribute any Work or Derivative Work, you must:
+   - Include a copy of this License
+   - Keep intact all notices referring to this License
+   - Make the complete Source Code of the Derivative Work available under HLv1.0
+   - Clearly indicate that the work is licensed under HLv1.0
+
+d) **No Sublicensing**: You may not sublicense the Work under different terms. All distributions must remain under HLv1.0.
+
+### 4. Source Code Availability
+
+If you Distribute Object Code of the Work or any Derivative Work, you must also make the corresponding Source Code available under HLv1.0. The Source Code must be provided in a manner that allows recipients to modify and rebuild the Work.
+
+### 5. Notices and Attribution
+
+You must retain all copyright, patent, trademark, and attribution notices present in the original Work. You may add your own copyright statement and provide additional or different license terms for any additions you make, provided that such additions comply with this License.
+
+### 6. Disclaimer of Warranty
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+### 7. Limitation of Liability
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE WORK AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OR INABILITY TO USE THE WORK.
+
+### 8. Termination
+
+Your rights under this License terminate automatically if you fail to comply with any of its terms. However, if you cure the violation within 30 days of becoming aware of it, your rights are reinstated retroactively.
+
+### 9. Acceptance
+
+By modifying, distributing, or otherwise using the Work, you indicate your acceptance of this License and agree to be bound by its terms.
+
+### 10. Version Compatibility
+
+Only works explicitly licensed under "Hyphen License 1.0" or "HLv1.0" are subject to these terms. Future versions of this license may be published, but works licensed under version 1.0 remain governed by version 1.0 unless explicitly relicensed by the copyright holder.
+
+---
+
+## How to Apply This License
+
+To apply the Hyphen License 1.0 to your work, include the following notice at the beginning of each source file:
+
+```
+Copyright (c) [year]
+Licensed under the Hyphen License 1.0 (HLv1.0).
+See the LICENSE file for details.
+```
+
+Also include a copy of this license in a file named `LICENSE` in the root directory of your project.
+
+---
+
+*The Hyphen License 1.0 is designed to foster open collaboration while ensuring that improvements and derivatives remain available to the community.*
