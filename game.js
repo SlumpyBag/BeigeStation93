@@ -1,5 +1,5 @@
 // Beige Station 93 - A Space Station Game
-// Copyright (c) 2024
+// Copyright (c) 2026
 // Licensed under the Hyphen License 1.0 (HLv1.0).
 
 const canvas = document.getElementById('gameCanvas');
